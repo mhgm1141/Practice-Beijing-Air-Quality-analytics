@@ -16,7 +16,7 @@ Key Questions Answered
 
 Data Engineering (ETL Process)
 
-A rigorous data cleaning process was performed using Power Query to ensure the integrity of the analysis:
+A rigorous data cleaning process was performed using PowerQuery to ensure the integrity of the analysis:
 
   Data Cleaning: Removed null values and handled empty records to prevent skewing averages.
   Data Typing: Validated and corrected data types for dates, times, and numerical pollutants.
@@ -24,4 +24,4 @@ A rigorous data cleaning process was performed using Power Query to ensure the i
 
 Advanced DAX Measures
 
-To identify specific environmental milestones, I developed custom DAX measures that filter the dataset based on maximum values
+To identify specific environmental milestones, I developed custom DAX measures that filter the dataset based on maximum values.
